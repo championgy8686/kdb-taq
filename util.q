@@ -1,3 +1,4 @@
+/ Utility functions for q dev
 //////////////////////////////////////////////////////
 //                                                  //
 //         Overwrite of Logging Library             //
